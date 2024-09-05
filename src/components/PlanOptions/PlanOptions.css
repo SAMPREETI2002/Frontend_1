@@ -1,0 +1,24 @@
+.plan-options {
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+    background-color: #f5f5f5;
+  }
+  
+  .plan {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    width: 30%;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .plan h2 {
+    color: #003366;
+  }
+  
+  .plan p {
+    color: #666;
+  }
+  

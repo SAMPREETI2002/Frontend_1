@@ -1,0 +1,40 @@
+/* Navbar.css */
+
+.navbar {
+  padding: 10px;
+  background-color: #004aad;  /* Set the navbar background color */
+}
+
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;  /* Ensure the brand text is visible on the dark background */
+}
+
+.navbar-nav .nav-link {
+  color: white;  /* Set the nav link color to white */
+  font-size: 16px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ffcc00;  /* Optional: Change the hover color for links */
+}
+
+.btn-custom {
+  padding: 5px 10px;
+  font-size: 14px;
+  color: white;  /* Ensure buttons have white text */
+}
+
+.btn-primary.btn-custom {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-success.btn-custom {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
